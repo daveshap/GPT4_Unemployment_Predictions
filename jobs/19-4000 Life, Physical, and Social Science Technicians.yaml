@@ -1,0 +1,14 @@
+Jobs Lost: 74615.09999999999
+Jobs Remaining: 280694.9
+OCC_CODE: 19-4000
+OCC_TITLE: Life, Physical, and Social Science Technicians
+TOT_EMP: 355,310
+dexterity: 0.25
+explanation: Life, Physical, and Social Science Technicians often require a mix of
+  dexterity for lab work, solo computer work for data analysis, and group collaboration
+  for research planning and discussion. However, with the rise of AI, many of these
+  tasks, especially data analysis and some lab work, could be automated. Therefore,
+  there is a moderate to high risk of job displacement in this field.
+group: 0.4
+solo: 0.35
+vulnerability: 0.6

@@ -1,0 +1,18 @@
+Jobs Lost: 3774310.8
+Jobs Remaining: 5903409.2
+OCC_CODE: 13-0000
+OCC_TITLE: Business and Financial Operations Occupations
+TOT_EMP: 9,677,720
+dexterity: 0.05
+explanation: Business and Financial Operations Occupations typically involve a significant
+  amount of solo computer work, such as data analysis, financial planning, and report
+  writing, which are highly susceptible to automation. However, these occupations
+  also require a fair amount of group collaboration and communication, such as meetings
+  and presentations, which are more difficult to automate. The dexterity component
+  is minimal, as these jobs do not typically require manual labor. The vulnerability
+  to AI displacement is relatively high due to the significant portion of work that
+  can be automated, but the need for human judgment and communication skills in these
+  roles somewhat mitigates this risk.
+group: 0.3
+solo: 0.65
+vulnerability: 0.6

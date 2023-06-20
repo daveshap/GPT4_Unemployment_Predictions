@@ -1,0 +1,19 @@
+Jobs Lost: 24208.85
+Jobs Remaining: 260601.15
+OCC_CODE: 53-6000
+OCC_TITLE: Other Transportation Workers
+TOT_EMP: 284,810
+dexterity: 0.7
+explanation: The occupation code 53-6000 refers to Other Transportation Workers. This
+  category includes a wide range of jobs that involve the transportation of goods
+  or people. Given the nature of these jobs, a significant portion of the work (70%)
+  requires high dexterity physical contact, such as operating vehicles or handling
+  goods. Only a small portion of the work (10%) can be done solo on a computer, such
+  as scheduling or route planning. About 20% of the work involves group collaboration
+  and communication, such as coordinating with other team members or communicating
+  with customers. The vulnerability of these jobs to AI and automation is quite high
+  (85%) due to the advancements in autonomous vehicles and logistics automation. However,
+  there will still be a need for human intervention in complex situations or emergencies.
+group: 0.2
+solo: 0.1
+vulnerability: 0.85

@@ -1,0 +1,19 @@
+Jobs Lost: 69470.79999999999
+Jobs Remaining: 426749.2
+OCC_CODE: 49-2000
+OCC_TITLE: Electrical and Electronic Equipment Mechanics, Installers, and Repairers
+TOT_EMP: 496,220
+dexterity: 0.6
+explanation: The occupation of Electrical and Electronic Equipment Mechanics, Installers,
+  and Repairers requires a high level of manual dexterity (60%) for tasks such as
+  installation, repair, and maintenance of electronic equipment. While some tasks
+  can be performed solo on a computer (20%), a significant portion of the work also
+  involves collaboration and communication with other team members or clients (20%).
+  Given the nature of the work, there is a high risk (70%) of job displacement due
+  to the rise of AI and automation, especially for tasks that involve routine maintenance
+  and diagnostics which can be automated. However, the need for human intervention
+  will still be necessary for complex repairs and installations that require high
+  dexterity and problem-solving skills.
+group: 0.2
+solo: 0.2
+vulnerability: 0.7

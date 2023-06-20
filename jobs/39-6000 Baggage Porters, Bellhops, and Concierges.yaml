@@ -1,0 +1,15 @@
+Jobs Lost: 2564.8
+Jobs Remaining: 61555.2
+OCC_CODE: 39-6000
+OCC_TITLE: Baggage Porters, Bellhops, and Concierges
+TOT_EMP: 64,120
+dexterity: 0.6
+explanation: Baggage Porters, Bellhops, and Concierges require a high level of physical
+  dexterity (60%) to handle luggage and other items. They also need to interact with
+  guests (30%), which involves face-to-face communication and service. Only a small
+  portion of their work (10%) involves solo computer work, such as logging items or
+  updating records. Despite the rise of AI, the need for human interaction and physical
+  handling of items in this occupation reduces its vulnerability to displacement (40%).
+group: 0.3
+solo: 0.1
+vulnerability: 0.4

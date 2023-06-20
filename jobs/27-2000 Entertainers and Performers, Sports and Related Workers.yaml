@@ -1,0 +1,17 @@
+Jobs Lost: 10532.0
+Jobs Remaining: 516068.0
+OCC_CODE: 27-2000
+OCC_TITLE: Entertainers and Performers, Sports and Related Workers
+TOT_EMP: 526,600
+dexterity: 0.6
+explanation: Entertainers and Performers, Sports and Related Workers require a high
+  level of dexterity and physical coordination, making up 60% of their work activities.
+  Solo computer work is minimal, at 10%, as their work is largely performance-based.
+  Group collaboration and communication make up 30% of their work, as they often work
+  in teams or groups. The vulnerability to AI displacement is relatively low at 20%,
+  as the intrinsic human element is crucial in this field. The emotional connection,
+  creativity, and physical presence that humans bring to entertainment and sports
+  cannot be easily replicated by AI.
+group: 0.3
+solo: 0.1
+vulnerability: 0.2

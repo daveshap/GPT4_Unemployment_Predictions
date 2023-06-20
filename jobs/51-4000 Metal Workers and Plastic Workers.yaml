@@ -1,0 +1,19 @@
+Jobs Lost: 197310.0
+Jobs Remaining: 1446940.0
+OCC_CODE: 51-4000
+OCC_TITLE: Metal Workers and Plastic Workers
+TOT_EMP: 1,644,250
+dexterity: 0.65
+explanation: Metal and Plastic Workers often require a high level of manual dexterity
+  and coordination to perform their tasks, which makes up about 65% of their work.
+  However, with the rise of automated machinery and AI, these tasks could potentially
+  be automated. Solo computer work, such as operating computer-controlled machines
+  or entering data, makes up about 15% of their work. Group collaboration and communication,
+  such as coordinating with other workers or discussing plans, makes up about 20%
+  of their work. Given the nature of their work and the capabilities of AI, there
+  is a high risk of job displacement, estimated at 80%. This is due to the fact that
+  many of their tasks do not intrinsically require human involvement and can be performed
+  by machines or AI.
+group: 0.2
+solo: 0.15
+vulnerability: 0.8

@@ -1,0 +1,16 @@
+Jobs Lost: 64630.4
+Jobs Remaining: 743249.6
+OCC_CODE: 51-3000
+OCC_TITLE: Food Processing Workers
+TOT_EMP: 807,880
+dexterity: 0.7
+explanation: Food Processing Workers require a high level of manual dexterity (70%)
+  for tasks such as cutting, sorting, and packaging food items. There is a small amount
+  of solo computer work (10%), such as operating machinery or inputting data. Group
+  collaboration and communication (20%) is necessary for coordinating tasks and ensuring
+  safety standards. However, the vulnerability to AI displacement is high (80%) as
+  many of the tasks performed by these workers can be automated, and there is no intrinsic
+  need for human involvement in the majority of the processes.
+group: 0.2
+solo: 0.1
+vulnerability: 0.8

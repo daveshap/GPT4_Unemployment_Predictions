@@ -1,0 +1,16 @@
+Jobs Lost: 55233.200000000004
+Jobs Remaining: 195826.8
+OCC_CODE: 19-2000
+OCC_TITLE: Physical Scientists
+TOT_EMP: 251,060
+dexterity: 0.15
+explanation: Physical Scientists often require a degree of manual dexterity for lab
+  work and fieldwork, but a significant portion of their work involves data analysis
+  and computer modeling, which could be automated. However, their work also often
+  involves collaboration and communication with other scientists, which is less susceptible
+  to automation. The intrinsic technological vulnerability is moderate as some aspects
+  of the job could be automated, but the need for human judgment and interpretation
+  in scientific research is still high.
+group: 0.3
+solo: 0.55
+vulnerability: 0.4

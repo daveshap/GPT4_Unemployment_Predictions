@@ -1,0 +1,19 @@
+Jobs Lost: 104441.0
+Jobs Remaining: 4073199.0
+OCC_CODE: 25-2000
+OCC_TITLE: Preschool, Elementary, Middle, Secondary, and Special Education Teachers
+TOT_EMP: 4,177,640
+dexterity: 0.15
+explanation: The occupation of teaching, especially at the preschool, elementary,
+  middle, secondary, and special education levels, involves a significant amount of
+  group collaboration and communication. This includes face-to-face interactions with
+  students, parents, and other educators, which is difficult to automate. While there
+  is a portion of the job that involves solo computer work, such as lesson planning
+  and grading, this is not the majority of the work. There is also a small amount
+  of high dexterity physical contact involved, such as setting up classroom materials.
+  The intrinsic technological vulnerability is low, as the human element is crucial
+  in education, particularly in understanding and responding to individual student
+  needs and in providing a nurturing learning environment.
+group: 0.6
+solo: 0.25
+vulnerability: 0.1

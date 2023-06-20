@@ -1,0 +1,19 @@
+Jobs Lost: 258981.0
+Jobs Remaining: 4057369.0
+OCC_CODE: 37-0000
+OCC_TITLE: Building and Grounds Cleaning and Maintenance Occupations
+TOT_EMP: 4,316,350
+dexterity: 0.7
+explanation: Building and Grounds Cleaning and Maintenance Occupations require a high
+  level of manual dexterity (70%) for tasks such as cleaning, repairing, and maintaining
+  buildings and grounds. These tasks are difficult to automate due to their physical
+  nature and the need for fine motor skills. Only a small portion of the work (10%)
+  can be done solo on a computer, such as scheduling or inventory management. There
+  is also a moderate need for group collaboration and communication (20%) for coordinating
+  tasks and interacting with clients or supervisors. The vulnerability to automation
+  is relatively high (60%) due to the potential for robotic cleaning and maintenance
+  technologies, but is not complete due to the high dexterity requirements and human
+  interaction aspects of the job.
+group: 0.2
+solo: 0.1
+vulnerability: 0.6

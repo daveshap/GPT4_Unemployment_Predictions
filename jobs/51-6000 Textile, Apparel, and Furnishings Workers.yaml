@@ -1,0 +1,15 @@
+Jobs Lost: 37487.200000000004
+Jobs Remaining: 431102.8
+OCC_CODE: 51-6000
+OCC_TITLE: Textile, Apparel, and Furnishings Workers
+TOT_EMP: 468,590
+dexterity: 0.7
+explanation: Textile, Apparel, and Furnishings Workers often require a high level
+  of manual dexterity (70%) for tasks such as sewing, cutting, and assembling. However,
+  these tasks are becoming increasingly automated, leading to a high vulnerability
+  score (80%). Solo computer work is minimal (10%) as most tasks are hands-on. Group
+  collaboration and communication (20%) may involve coordination with other workers
+  or supervisors, but this is not the primary component of the job.
+group: 0.2
+solo: 0.1
+vulnerability: 0.8

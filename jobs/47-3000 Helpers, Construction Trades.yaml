@@ -1,0 +1,17 @@
+Jobs Lost: 12144.6
+Jobs Remaining: 190265.4
+OCC_CODE: 47-3000
+OCC_TITLE: Helpers, Construction Trades
+TOT_EMP: 202,410
+dexterity: 0.7
+explanation: Helpers in Construction Trades are heavily involved in physical labor
+  that requires high dexterity, hence the high percentage of 70%. Solo computer work
+  is minimal in this occupation, estimated at 10%. Group collaboration and communication
+  are also part of the job, but not as significant as the physical labor, estimated
+  at 20%. The vulnerability of this occupation to AI and automation is relatively
+  high at 60% due to the potential for machines to perform some of the physical tasks,
+  but the need for human judgment, coordination, and dexterity in many tasks still
+  remains.
+group: 0.2
+solo: 0.1
+vulnerability: 0.6

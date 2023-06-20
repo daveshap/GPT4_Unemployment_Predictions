@@ -1,0 +1,18 @@
+Jobs Lost: 5212.1
+Jobs Remaining: 515997.9
+OCC_CODE: 39-5000
+OCC_TITLE: Personal Appearance Workers
+TOT_EMP: 521,210
+dexterity: 0.7
+explanation: Personal Appearance Workers, such as hairdressers, barbers, and cosmetologists,
+  require a high level of manual dexterity and physical contact with clients, making
+  up 70% of their work. This is difficult to automate due to the current limitations
+  of robotic peripherals. They also spend about 10% of their time on solo computer
+  work, such as scheduling appointments or managing client records, which could be
+  automated. However, a significant part of their work (20%) involves face-to-face
+  interactions with clients, which is difficult to automate. Given the high demand
+  for human touch in this occupation, the risk of job displacement due to AI is relatively
+  low at 10%.
+group: 0.2
+solo: 0.1
+vulnerability: 0.1

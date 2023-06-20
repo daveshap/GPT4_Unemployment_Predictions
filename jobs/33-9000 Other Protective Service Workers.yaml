@@ -1,0 +1,18 @@
+Jobs Lost: 31672.4
+Jobs Remaining: 1551947.6
+OCC_CODE: 33-9000
+OCC_TITLE: Other Protective Service Workers
+TOT_EMP: 1,583,620
+dexterity: 0.6
+explanation: The occupation code 33-9000 refers to Other Protective Service Workers.
+  This includes a wide range of jobs that require a high level of physical dexterity
+  and coordination, such as security guards, lifeguards, and crossing guards. These
+  jobs often require a significant amount of physical activity, hence the high dexterity
+  score of 0.6. Solo computer work is minimal in these roles, hence the low score
+  of 0.1. However, these roles often require interaction with the public or other
+  team members, hence the group collaboration score of 0.3. The vulnerability score
+  is relatively low at 0.2, as these roles often require a human presence for effective
+  operation, and the judgement required in many of these roles is difficult to automate.
+group: 0.3
+solo: 0.1
+vulnerability: 0.2

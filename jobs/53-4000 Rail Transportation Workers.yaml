@@ -1,0 +1,16 @@
+Jobs Lost: 16899.2
+Jobs Remaining: 88720.8
+OCC_CODE: 53-4000
+OCC_TITLE: Rail Transportation Workers
+TOT_EMP: 105,620
+dexterity: 0.6
+explanation: Rail Transportation Workers require a high level of dexterity for tasks
+  such as operating rail vehicles, performing maintenance, and handling cargo. However,
+  these tasks could potentially be automated with advancements in AI and robotics.
+  Solo computer work and group collaboration make up a smaller portion of their work,
+  but these could also be susceptible to automation. The vulnerability of this occupation
+  is high due to the potential for automation of rail vehicles and the lack of intrinsic
+  need for human operators.
+group: 0.2
+solo: 0.2
+vulnerability: 0.8

@@ -1,0 +1,17 @@
+Jobs Lost: 2619400.0
+Jobs Remaining: 2058100.0
+OCC_CODE: 15-1200
+OCC_TITLE: Computer Occupations
+TOT_EMP: 4,677,500
+dexterity: 0.05
+explanation: The occupation code 15-1200 refers to Computer Occupations. These jobs
+  typically involve a high degree of solo computer work, which is highly susceptible
+  to automation. The dexterity component is relatively low as these jobs do not require
+  much physical labor or manual dexterity. Group collaboration and communication is
+  moderate as these jobs often require some level of interaction and collaboration
+  with team members. The vulnerability to AI and automation is high due to the nature
+  of the work, which involves a lot of tasks that can be automated such as coding,
+  data analysis, and system administration.
+group: 0.25
+solo: 0.7
+vulnerability: 0.8

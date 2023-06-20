@@ -1,0 +1,17 @@
+Jobs Lost: 181591.19999999998
+Jobs Remaining: 2844928.8
+OCC_CODE: 37-2000
+OCC_TITLE: Building Cleaning and Pest Control Workers
+TOT_EMP: 3,026,520
+dexterity: 0.7
+explanation: Building Cleaning and Pest Control Workers require a high level of manual
+  dexterity (70%) as they often need to handle cleaning tools and equipment, and perform
+  tasks that require physical coordination. Only a small portion of their work involves
+  solo computer work (10%), such as scheduling or logging tasks. They also need to
+  communicate and collaborate with others (20%), for instance, to understand client
+  requirements or coordinate with team members. However, the vulnerability of this
+  occupation to AI is relatively high (60%) as many cleaning tasks could potentially
+  be automated, although the lack of fine motor coordination in robots may limit this.
+group: 0.2
+solo: 0.1
+vulnerability: 0.6

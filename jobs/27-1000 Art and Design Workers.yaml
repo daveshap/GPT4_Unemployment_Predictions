@@ -1,0 +1,18 @@
+Jobs Lost: 95006.79999999999
+Jobs Remaining: 583613.2
+OCC_CODE: 27-1000
+OCC_TITLE: Art and Design Workers
+TOT_EMP: 678,620
+dexterity: 0.35
+explanation: Art and Design Workers require a significant amount of manual dexterity
+  for tasks such as sketching, painting, and sculpting, which is difficult to automate.
+  They also spend a considerable amount of time working solo on a computer, using
+  design software, which is susceptible to automation. However, they also engage in
+  a fair amount of group collaboration and communication, such as client meetings
+  and team brainstorming sessions, which is difficult to automate. Despite the technological
+  advancements in AI, the creative and subjective nature of art and design work makes
+  it less vulnerable to automation compared to other occupations. Therefore, the estimated
+  risk of displacement due to no intrinsic need for humans is 40%.
+group: 0.3
+solo: 0.35
+vulnerability: 0.4

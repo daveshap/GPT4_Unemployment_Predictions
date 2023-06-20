@@ -1,0 +1,18 @@
+Jobs Lost: 53984.0
+Jobs Remaining: 717216.0
+OCC_CODE: 23-1000
+OCC_TITLE: Lawyers, Judges, and Related Workers
+TOT_EMP: 771,200
+dexterity: 0.05
+explanation: The occupation of Lawyers, Judges, and Related Workers involves a significant
+  amount of group collaboration and communication, such as court proceedings, client
+  meetings, and negotiation sessions, which are difficult to automate. Solo computer
+  work, such as legal research and document drafting, could potentially be automated,
+  but the complexity and nuance of legal language may pose a challenge for AI. The
+  job requires minimal physical dexterity. Despite the potential for automation in
+  some areas, the intrinsic need for human judgment, ethics, and the ability to understand
+  and navigate complex human situations makes this occupation less vulnerable to displacement
+  by AI.
+group: 0.6
+solo: 0.35
+vulnerability: 0.2

@@ -1,0 +1,16 @@
+Jobs Lost: 5264.0
+Jobs Remaining: 69936.0
+OCC_CODE: 53-5000
+OCC_TITLE: Water Transportation Workers
+TOT_EMP: 75,200
+dexterity: 0.6
+explanation: Water Transportation Workers require a high level of dexterity for tasks
+  such as operating and maintaining equipment, which is difficult to automate. However,
+  some aspects of their work, such as navigation, could potentially be automated.
+  Group collaboration is also important in this field, particularly in emergency situations.
+  The vulnerability to automation is relatively high due to the potential for automated
+  navigation and control systems, but the need for human judgment and physical intervention
+  in emergencies reduces this somewhat.
+group: 0.3
+solo: 0.1
+vulnerability: 0.7

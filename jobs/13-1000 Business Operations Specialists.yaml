@@ -1,0 +1,18 @@
+Jobs Lost: 1798418.7
+Jobs Remaining: 4862391.3
+OCC_CODE: 13-1000
+OCC_TITLE: Business Operations Specialists
+TOT_EMP: 6,660,810
+dexterity: 0.05
+explanation: Business Operations Specialists often work in an office environment,
+  with a significant portion of their work involving solo computer tasks such as data
+  analysis, report generation, and project planning. This makes a large part of their
+  job susceptible to automation. However, they also engage in a substantial amount
+  of group collaboration and communication, such as meetings and presentations, which
+  are less likely to be automated. The dexterity component is minimal, as their work
+  does not typically involve manual labor. The vulnerability to AI displacement is
+  estimated to be moderately high due to the significant portion of their work that
+  could be automated, despite the human element in their group collaboration tasks.
+group: 0.5
+solo: 0.45
+vulnerability: 0.6

@@ -1,0 +1,17 @@
+Jobs Lost: 3382.5
+Jobs Remaining: 334867.5
+OCC_CODE: 33-2000
+OCC_TITLE: Firefighting and Prevention Workers
+TOT_EMP: 338,250
+dexterity: 0.6
+explanation: Firefighting and Prevention Workers require a high level of physical
+  dexterity (60%) to perform tasks such as operating firefighting equipment, rescuing
+  individuals, and physically combating fires. Solo computer work is minimal (10%)
+  as it may only involve tasks such as report writing or equipment checks. Group collaboration
+  and communication (30%) is essential in this role for tasks such as team-based firefighting,
+  training, and community education. The intrinsic technological vulnerability is
+  low (10%) as the physical and unpredictable nature of firefighting, as well as the
+  human judgment required, makes it less likely to be fully automated.
+group: 0.3
+solo: 0.1
+vulnerability: 0.1

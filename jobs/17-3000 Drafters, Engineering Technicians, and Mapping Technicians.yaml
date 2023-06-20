@@ -1,0 +1,18 @@
+Jobs Lost: 289061.5
+Jobs Remaining: 346238.5
+OCC_CODE: 17-3000
+OCC_TITLE: Drafters, Engineering Technicians, and Mapping Technicians
+TOT_EMP: 635,300
+dexterity: 0.15
+explanation: The occupation of Drafters, Engineering Technicians, and Mapping Technicians
+  involves a significant amount of solo computer work, such as drafting designs and
+  analyzing data, which makes it highly susceptible to automation. While there is
+  some level of dexterity involved in certain tasks, such as operating equipment or
+  conducting fieldwork, this is not the majority of the work. Group collaboration
+  and communication is also a part of the job, but it is not the primary function.
+  Given the high level of solo computer work and the relatively low need for human
+  dexterity and face-to-face interaction, this occupation has a high vulnerability
+  to displacement due to AI and automation.
+group: 0.2
+solo: 0.65
+vulnerability: 0.7

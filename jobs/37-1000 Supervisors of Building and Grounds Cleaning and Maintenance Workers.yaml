@@ -1,0 +1,16 @@
+Jobs Lost: 12990.15
+Jobs Remaining: 275679.85
+OCC_CODE: 37-1000
+OCC_TITLE: Supervisors of Building and Grounds Cleaning and Maintenance Workers
+TOT_EMP: 288,670
+dexterity: 0.35
+explanation: This occupation involves a significant amount of physical work and coordination,
+  hence the high dexterity score. However, it also requires a substantial amount of
+  group collaboration and communication, as supervisors need to manage and coordinate
+  with their teams. Solo computer work is relatively low, as most tasks are hands-on
+  or involve interpersonal communication. The vulnerability score is moderate, as
+  while some tasks could potentially be automated, the need for human judgment, coordination,
+  and management in this role is still high.
+group: 0.5
+solo: 0.15
+vulnerability: 0.3

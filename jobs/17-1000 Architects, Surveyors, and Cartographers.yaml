@@ -1,0 +1,16 @@
+Jobs Lost: 37328.0
+Jobs Remaining: 149312.0
+OCC_CODE: 17-1000
+OCC_TITLE: Architects, Surveyors, and Cartographers
+TOT_EMP: 186,640
+dexterity: 0.2
+explanation: Architects, Surveyors, and Cartographers require a mix of dexterity,
+  solo computer work, and group collaboration. Dexterity is needed for on-site work
+  and model creation, which accounts for 20% of their work. Solo computer work, such
+  as drafting and design, makes up about 50% of their work. Group collaboration, including
+  client meetings and team coordination, accounts for the remaining 30%. The vulnerability
+  to AI displacement is estimated at 40% due to the high reliance on human judgment,
+  creativity, and client interaction, which are currently difficult to automate.
+group: 0.3
+solo: 0.5
+vulnerability: 0.4

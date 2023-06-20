@@ -1,0 +1,20 @@
+Jobs Lost: 125939.09999999999
+Jobs Remaining: 473770.9
+OCC_CODE: 53-1000
+OCC_TITLE: Supervisors of Transportation and Material Moving Workers
+TOT_EMP: 599,710
+dexterity: 0.25
+explanation: Supervisors of Transportation and Material Moving Workers often require
+  a mix of physical dexterity, solo computer work, and group collaboration. Physical
+  dexterity is needed for overseeing and sometimes participating in the transportation
+  and moving process. Solo computer work is required for tasks such as scheduling,
+  tracking, and reporting. Group collaboration is crucial for coordinating teams,
+  communicating with other departments, and resolving issues. However, with the rise
+  of AI, many of these tasks can be automated. AI can handle scheduling, tracking,
+  and reporting tasks, reducing the need for human involvement. Furthermore, AI can
+  also assist in coordinating teams and communicating with other departments. Therefore,
+  this occupation has a moderate to high vulnerability to job displacement due to
+  AI.
+group: 0.4
+solo: 0.35
+vulnerability: 0.6

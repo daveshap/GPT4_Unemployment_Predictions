@@ -1,0 +1,16 @@
+Jobs Lost: 246516.9
+Jobs Remaining: 3275153.1
+OCC_CODE: 35-2000
+OCC_TITLE: Cooks and Food Preparation Workers
+TOT_EMP: 3,521,670
+dexterity: 0.6
+explanation: Cooks and Food Preparation Workers require a high level of dexterity
+  (60%) for tasks such as chopping, stirring, and plating. Solo computer work is minimal
+  (10%) as most tasks are hands-on. There is a moderate level of group collaboration
+  (30%) in coordinating with other kitchen staff and understanding orders. The vulnerability
+  to AI is relatively high (70%) as many cooking tasks could be automated, though
+  the fine dexterity and taste-testing aspects of the job may still require human
+  involvement.
+group: 0.3
+solo: 0.1
+vulnerability: 0.7

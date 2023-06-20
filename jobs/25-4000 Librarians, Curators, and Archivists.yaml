@@ -1,0 +1,17 @@
+Jobs Lost: 31872.149999999998
+Jobs Remaining: 204217.85
+OCC_CODE: 25-4000
+OCC_TITLE: Librarians, Curators, and Archivists
+TOT_EMP: 236,090
+dexterity: 0.15
+explanation: Librarians, Curators, and Archivists require a moderate level of dexterity
+  for tasks such as handling books and artifacts (15%). A significant portion of their
+  work involves solo computer work, such as cataloging and research (45%). However,
+  they also spend a considerable amount of time in group collaboration and communication,
+  such as assisting patrons and conducting educational programs (40%). The intrinsic
+  technological vulnerability is relatively low (30%) because these professionals
+  provide a human touch in their services that cannot be fully replaced by AI, such
+  as understanding specific patron needs and providing personalized assistance.
+group: 0.4
+solo: 0.45
+vulnerability: 0.3

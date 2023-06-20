@@ -1,0 +1,18 @@
+Jobs Lost: 327867.75
+Jobs Remaining: 2794682.25
+OCC_CODE: 49-9000
+OCC_TITLE: Other Installation, Maintenance, and Repair Occupations
+TOT_EMP: 3,122,550
+dexterity: 0.65
+explanation: The occupation code 49-9000 includes jobs that require a high level of
+  manual dexterity and physical contact, such as installation, maintenance, and repair
+  tasks. These tasks often involve handling tools and equipment, which is why a high
+  percentage (65%) is assigned to this category. Solo computer work is relatively
+  low (15%) as these jobs are not typically desk jobs. Group collaboration and communication
+  (20%) is necessary for coordinating tasks and troubleshooting issues. The vulnerability
+  to AI displacement is relatively high (70%) because while AI may not be able to
+  perform all the physical tasks, it can automate diagnostic and some repair tasks,
+  reducing the need for human labor.
+group: 0.2
+solo: 0.15
+vulnerability: 0.7

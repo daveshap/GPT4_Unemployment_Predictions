@@ -1,0 +1,17 @@
+Jobs Lost: 34284.8
+Jobs Remaining: 179995.2
+OCC_CODE: 51-5100
+OCC_TITLE: Printing Workers
+TOT_EMP: 214,280
+dexterity: 0.6
+explanation: Printing workers are involved in various tasks that require high dexterity,
+  such as operating printing machines and performing adjustments to ensure quality.
+  This accounts for 60% of their work. However, with the advancement of AI, these
+  tasks can be automated to a large extent, hence the high vulnerability score of
+  0.8. About 20% of their work involves solo computer work, which is highly susceptible
+  to automation. The remaining 20% involves group collaboration and communication,
+  which is less likely to be automated. Overall, the job displacement risk for printing
+  workers due to the rise of AI is quite high.
+group: 0.2
+solo: 0.2
+vulnerability: 0.8

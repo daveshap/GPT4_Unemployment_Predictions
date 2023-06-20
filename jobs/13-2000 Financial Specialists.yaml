@@ -1,0 +1,18 @@
+Jobs Lost: 1372694.0499999998
+Jobs Remaining: 1644215.9500000002
+OCC_CODE: 13-2000
+OCC_TITLE: Financial Specialists
+TOT_EMP: 3,016,910
+dexterity: 0.05
+explanation: Financial Specialists primarily work with data analysis, financial modeling,
+  and other tasks that can be done on a computer, making them highly susceptible to
+  automation. While there is a significant portion of their work that involves group
+  collaboration and communication, AI advancements in natural language processing
+  and decision-making capabilities could potentially automate these tasks as well.
+  However, the need for high dexterity physical contact is minimal in this occupation.
+  The intrinsic technological vulnerability is high due to the nature of the work,
+  which doesn't necessarily require human involvement. Therefore, there is a 70% estimated
+  risk of job displacement due to AI and automation.
+group: 0.3
+solo: 0.65
+vulnerability: 0.7

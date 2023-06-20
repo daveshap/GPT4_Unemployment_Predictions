@@ -1,0 +1,19 @@
+Jobs Lost: 2490.2999999999997
+Jobs Remaining: 25179.7
+OCC_CODE: 45-1000
+OCC_TITLE: Supervisors of Farming, Fishing, and Forestry Workers
+TOT_EMP: 27,670
+dexterity: 0.35
+explanation: Supervisors of Farming, Fishing, and Forestry Workers require a significant
+  amount of physical dexterity (35%) for tasks such as inspecting crops, animals,
+  and equipment, as well as potentially operating machinery. Solo computer work is
+  less prevalent (15%), as much of the work is done in the field. However, a large
+  portion of the job involves group collaboration and communication (50%), as supervisors
+  must coordinate with workers, provide instructions, and ensure safety protocols
+  are followed. The vulnerability to AI displacement is relatively high (60%) due
+  to the potential for automation in areas such as crop inspection and equipment operation.
+  However, the need for human judgment in managing workers and responding to unexpected
+  situations provides some level of job security.
+group: 0.5
+solo: 0.15
+vulnerability: 0.6

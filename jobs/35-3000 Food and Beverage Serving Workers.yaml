@@ -1,0 +1,16 @@
+Jobs Lost: 126184.0
+Jobs Remaining: 6183016.0
+OCC_CODE: 35-3000
+OCC_TITLE: Food and Beverage Serving Workers
+TOT_EMP: 6,309,200
+dexterity: 0.65
+explanation: Food and Beverage Serving Workers require a high level of dexterity (65%)
+  for tasks such as preparing food, serving customers, and cleaning. Solo computer
+  work is minimal (5%) as most tasks are hands-on and require human interaction. Group
+  collaboration and communication is significant (30%) due to the need for coordination
+  among staff and interaction with customers. The vulnerability to AI displacement
+  is moderate (40%) as while some tasks can be automated, the human touch in service
+  industries is often preferred by customers.
+group: 0.3
+solo: 0.05
+vulnerability: 0.4

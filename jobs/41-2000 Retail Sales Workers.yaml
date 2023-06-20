@@ -1,0 +1,16 @@
+Jobs Lost: 1061891.5999999999
+Jobs Remaining: 6523048.4
+OCC_CODE: 41-2000
+OCC_TITLE: Retail Sales Workers
+TOT_EMP: 7,584,940
+dexterity: 0.2
+explanation: Retail Sales Workers require a moderate level of dexterity for tasks
+  such as handling products and operating cash registers (20%). A portion of their
+  work involves solo tasks such as inventory management and data entry (20%). However,
+  a significant part of their job involves group collaboration and communication with
+  customers (60%). Despite the high level of human interaction, the rise of online
+  shopping and self-checkout systems makes this occupation highly vulnerable to automation
+  (70%).
+group: 0.6
+solo: 0.2
+vulnerability: 0.7

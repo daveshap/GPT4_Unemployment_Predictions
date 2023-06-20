@@ -1,0 +1,15 @@
+Jobs Lost: 5487.6
+Jobs Remaining: 268892.4
+OCC_CODE: 39-2000
+OCC_TITLE: Animal Care and Service Workers
+TOT_EMP: 274,380
+dexterity: 0.6
+explanation: Animal Care and Service Workers require a high level of dexterity (60%)
+  for tasks such as grooming, feeding, and handling animals. Solo computer work is
+  minimal (10%) as most tasks are hands-on. There is a moderate level of group collaboration
+  and communication (30%) involved, especially in roles such as animal trainers. The
+  intrinsic technological vulnerability is low (20%) as the care and handling of animals
+  requires a human touch and emotional connection that AI and machines cannot replicate.
+group: 0.3
+solo: 0.1
+vulnerability: 0.2

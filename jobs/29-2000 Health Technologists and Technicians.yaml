@@ -1,0 +1,19 @@
+Jobs Lost: 147480.0
+Jobs Remaining: 2802120.0
+OCC_CODE: 29-2000
+OCC_TITLE: Health Technologists and Technicians
+TOT_EMP: 2,949,600
+dexterity: 0.45
+explanation: Health Technologists and Technicians require a significant amount of
+  manual dexterity for tasks such as drawing blood, operating medical equipment, and
+  performing other hands-on healthcare procedures. This accounts for the high dexterity
+  score. They also spend a portion of their time on solo computer work, such as entering
+  patient data into electronic health records. However, a significant part of their
+  work also involves face-to-face interactions with patients, explaining procedures,
+  and working with other healthcare professionals, hence the group collaboration score.
+  The vulnerability score is relatively low because healthcare is a field that requires
+  a high degree of human touch, empathy, and judgement, which are currently beyond
+  the capabilities of AI and machines.
+group: 0.3
+solo: 0.25
+vulnerability: 0.2

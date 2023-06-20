@@ -1,0 +1,21 @@
+Jobs Lost: 48897.0
+Jobs Remaining: 4840803.0
+OCC_CODE: 31-1100
+OCC_TITLE: Home Health and Personal Care Aides; and Nursing Assistants, Orderlies,
+  and Psychiatric Aides
+TOT_EMP: 4,889,700
+dexterity: 0.6
+explanation: The occupation code 31-1100 includes roles such as Home Health and Personal
+  Care Aides; and Nursing Assistants, Orderlies, and Psychiatric Aides. These roles
+  require a high level of physical dexterity (60%) as they involve tasks such as assisting
+  patients with daily activities, moving patients, and performing basic health-related
+  services. A small portion of the work (10%) can be done solo, such as updating patient
+  records. A significant part of the job (30%) involves group collaboration and communication,
+  as these professionals often work in teams and need to communicate effectively with
+  patients and their families. The intrinsic technological vulnerability is low (10%)
+  as these roles require a human touch and emotional intelligence that cannot be replaced
+  by AI or machines. Therefore, the risk of job displacement due to AI is relatively
+  low.
+group: 0.3
+solo: 0.1
+vulnerability: 0.1

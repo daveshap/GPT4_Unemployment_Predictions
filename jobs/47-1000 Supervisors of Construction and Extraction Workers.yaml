@@ -1,0 +1,17 @@
+Jobs Lost: 43254.0
+Jobs Remaining: 677646.0
+OCC_CODE: 47-1000
+OCC_TITLE: Supervisors of Construction and Extraction Workers
+TOT_EMP: 720,900
+dexterity: 0.35
+explanation: Supervisors of Construction and Extraction Workers require a high level
+  of group collaboration and communication (50%) as they need to coordinate with various
+  teams, manage workers, and ensure safety protocols. They also require a significant
+  amount of dexterity (35%) for on-site inspections and sometimes manual work. Solo
+  computer work is relatively less (15%) as it might involve planning, scheduling,
+  and reporting. The vulnerability to AI is moderate (40%) as while AI can assist
+  in planning and scheduling tasks, the need for human judgment in managing people
+  and ensuring safety on construction sites is still crucial.
+group: 0.5
+solo: 0.15
+vulnerability: 0.4

@@ -1,0 +1,18 @@
+Jobs Lost: 57515.0
+Jobs Remaining: 517635.0
+OCC_CODE: 41-9000
+OCC_TITLE: Other Sales and Related Workers
+TOT_EMP: 575,150
+dexterity: 0.15
+explanation: The occupation code 41-9000 refers to Other Sales and Related Workers.
+  This job category involves a significant amount of group collaboration and communication
+  (60%), as sales often require face-to-face interactions, negotiations, and relationship
+  building. Solo computer work, such as data entry or email communication, might constitute
+  around 25% of the job. High dexterity physical contact is estimated to be around
+  15%, as some sales roles may involve product demonstrations or handling. The intrinsic
+  technological vulnerability is estimated at 40%. While AI can automate some aspects
+  of sales, such as data analysis and routine communications, the human element in
+  building relationships and understanding customer needs is still crucial.
+group: 0.6
+solo: 0.25
+vulnerability: 0.4

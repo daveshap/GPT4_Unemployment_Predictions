@@ -1,0 +1,17 @@
+Jobs Lost: 364531.2
+Jobs Remaining: 5710988.8
+OCC_CODE: 47-0000
+OCC_TITLE: Construction and Extraction Occupations
+TOT_EMP: 6,075,520
+dexterity: 0.7
+explanation: Construction and extraction occupations require a high level of manual
+  dexterity (70%) as they involve physical labor and the operation of heavy machinery.
+  Solo computer work is minimal (10%) as these jobs are not typically desk-based.
+  There is a moderate level of group collaboration and communication (20%) as these
+  jobs often involve teamwork and coordination. The vulnerability to AI displacement
+  is relatively high (60%) due to the potential for automation in operating machinery
+  and planning construction projects, although the need for physical labor and human
+  judgment in unpredictable environments reduces this risk somewhat.
+group: 0.2
+solo: 0.1
+vulnerability: 0.6

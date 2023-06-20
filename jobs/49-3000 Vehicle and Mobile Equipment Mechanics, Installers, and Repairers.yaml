@@ -1,0 +1,19 @@
+Jobs Lost: 172785.9
+Jobs Remaining: 1472794.1
+OCC_CODE: 49-3000
+OCC_TITLE: Vehicle and Mobile Equipment Mechanics, Installers, and Repairers
+TOT_EMP: 1,645,580
+dexterity: 0.65
+explanation: Vehicle and Mobile Equipment Mechanics, Installers, and Repairers require
+  a high level of manual dexterity (65%) for tasks such as repairing, installing,
+  and maintaining vehicles and equipment. While some tasks can be automated, the need
+  for fine motor skills and physical inspection makes complete automation challenging.
+  Solo computer work is estimated at 15%, as these professionals often need to use
+  diagnostic software and other computerized tools. Group collaboration and communication
+  is estimated at 20%, as these professionals often work in teams and need to communicate
+  with clients. The vulnerability to AI displacement is estimated at 70% due to the
+  increasing automation of diagnostic and repair tasks, although the need for physical
+  dexterity and human judgment in complex repairs mitigates this risk.
+group: 0.2
+solo: 0.15
+vulnerability: 0.7

@@ -1,0 +1,17 @@
+Jobs Lost: 626942.7
+Jobs Remaining: 1695067.3
+OCC_CODE: 11-3000
+OCC_TITLE: Operations Specialties Managers
+TOT_EMP: 2,322,010
+dexterity: 0.05
+explanation: Operations Specialties Managers often require a balance of solo computer
+  work and group collaboration & communication. Their tasks often involve planning,
+  directing, or coordinating the operations of public or private sector organizations.
+  While AI can automate some of the solo computer work, such as data analysis and
+  report generation, the high level of group collaboration & communication, such as
+  team management, negotiation, and strategic decision making, is harder to automate.
+  However, the vulnerability is relatively high as AI continues to improve in decision-making
+  capabilities.
+group: 0.5
+solo: 0.45
+vulnerability: 0.6

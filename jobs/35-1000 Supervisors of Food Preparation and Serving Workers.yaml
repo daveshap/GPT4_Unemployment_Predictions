@@ -1,0 +1,16 @@
+Jobs Lost: 39894.299999999996
+Jobs Remaining: 1289915.7
+OCC_CODE: 35-1000
+OCC_TITLE: Supervisors of Food Preparation and Serving Workers
+TOT_EMP: 1,329,810
+dexterity: 0.4
+explanation: Supervisors of Food Preparation and Serving Workers require a high level
+  of dexterity (40%) for tasks such as food preparation and handling equipment. Solo
+  computer work is minimal (10%) as most tasks are hands-on or involve direct interaction
+  with staff or customers. Group collaboration and communication is significant (50%)
+  due to the need for coordinating with staff, training, and customer service. The
+  vulnerability to AI displacement is relatively low (30%) because the role requires
+  a high level of human interaction and judgment, which are difficult to automate.
+group: 0.5
+solo: 0.1
+vulnerability: 0.3

@@ -1,0 +1,15 @@
+Jobs Lost: 1114219.95
+Jobs Remaining: 7624760.05
+OCC_CODE: 51-0000
+OCC_TITLE: Production Occupations
+TOT_EMP: 8,738,980
+dexterity: 0.65
+explanation: Production occupations often involve a high degree of manual dexterity
+  and physical labor, hence the high dexterity score. However, with the rise of AI
+  and automation, many of these tasks can be automated, leading to a high vulnerability
+  score. Solo computer work and group collaboration are less common in these occupations,
+  but they do exist, especially in roles that involve quality control, planning, and
+  coordination.
+group: 0.2
+solo: 0.15
+vulnerability: 0.85

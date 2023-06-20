@@ -1,0 +1,19 @@
+Jobs Lost: 23490.0
+Jobs Remaining: 172260.0
+OCC_CODE: 47-5000
+OCC_TITLE: Extraction Workers
+TOT_EMP: 195,750
+dexterity: 0.65
+explanation: Extraction workers, such as miners, oil drillers, and quarry workers,
+  often perform tasks that require a high degree of manual dexterity and physical
+  labor, making up 65% of their work. However, with the advent of AI and robotics,
+  many of these tasks could potentially be automated, especially those that are repetitive
+  or dangerous. Solo computer work, such as operating machinery or monitoring systems,
+  accounts for 15% of their work, which is highly susceptible to automation. Group
+  collaboration and communication make up 20% of their work, which is less likely
+  to be automated due to the need for human judgment and decision-making. Given the
+  nature of their work and the potential for automation, extraction workers have a
+  high vulnerability to job displacement due to AI, estimated at 80%.
+group: 0.2
+solo: 0.15
+vulnerability: 0.8

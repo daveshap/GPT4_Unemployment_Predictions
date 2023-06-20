@@ -1,0 +1,20 @@
+Jobs Lost: 133620.0
+Jobs Remaining: 311780.0
+OCC_CODE: 23-2000
+OCC_TITLE: Legal Support Workers
+TOT_EMP: 445,400
+dexterity: 0.1
+explanation: Legal Support Workers, such as paralegals and legal assistants, often
+  perform a mix of solo computer work, group collaboration, and some tasks requiring
+  manual dexterity. The majority of their work involves researching legal precedents,
+  drafting documents, and organizing files, which can be done on a computer and thus
+  are susceptible to automation. However, they also engage in significant group collaboration,
+  such as meeting with clients, attorneys, and court personnel, which is less likely
+  to be automated. Tasks requiring manual dexterity, such as handling physical files
+  or documents, make up a smaller portion of their work. Given the nature of their
+  work, there is a moderate risk of job displacement due to AI, as many of their tasks
+  can be automated, but the need for human judgment and interaction in the legal field
+  remains significant.
+group: 0.4
+solo: 0.5
+vulnerability: 0.6

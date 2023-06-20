@@ -1,0 +1,18 @@
+Jobs Lost: 250292.40000000002
+Jobs Remaining: 12264327.6
+OCC_CODE: 35-0000
+OCC_TITLE: Food Preparation and Serving Related Occupations
+TOT_EMP: 12,514,620
+dexterity: 0.65
+explanation: Food Preparation and Serving Related Occupations require a high level
+  of dexterity (65%) as they involve tasks such as cooking, cutting, and serving which
+  require fine motor skills and coordination. Only a small portion of the work (5%)
+  can be done solo on a computer, such as inventory management or scheduling. A significant
+  portion of the work (30%) involves group collaboration and communication, such as
+  interacting with customers and coordinating with other staff. The vulnerability
+  to AI displacement is estimated at 40% due to the potential for automation in areas
+  like order taking and food preparation, but the need for human interaction and dexterity
+  in many tasks still remains.
+group: 0.3
+solo: 0.05
+vulnerability: 0.4

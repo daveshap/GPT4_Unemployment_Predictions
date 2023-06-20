@@ -1,0 +1,18 @@
+Jobs Lost: 34832.4
+Jobs Remaining: 1126247.6
+OCC_CODE: 33-3000
+OCC_TITLE: Law Enforcement Workers
+TOT_EMP: 1,161,080
+dexterity: 0.35
+explanation: Law enforcement work involves a significant amount of physical activity,
+  including patrolling, apprehending suspects, and conducting searches, which accounts
+  for the high dexterity score. Solo computer work, such as report writing and data
+  entry, is also a part of the job but not as significant. The majority of the work
+  involves group collaboration and communication, such as coordinating with other
+  officers, interacting with the public, and testifying in court. The vulnerability
+  score is relatively low because there is a strong intrinsic need for humans in law
+  enforcement, both for their judgment in complex and unpredictable situations and
+  for their role in community relations.
+group: 0.5
+solo: 0.15
+vulnerability: 0.2

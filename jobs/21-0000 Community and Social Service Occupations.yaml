@@ -1,0 +1,17 @@
+Jobs Lost: 57840.5
+Jobs Remaining: 2255779.5
+OCC_CODE: 21-0000
+OCC_TITLE: Community and Social Service Occupations
+TOT_EMP: 2,313,620
+dexterity: 0.15
+explanation: Community and Social Service Occupations involve a significant amount
+  of human interaction, empathy, and understanding, which are difficult to automate.
+  While some tasks such as data entry and report generation can be automated (25%),
+  the majority of the work involves group collaboration and communication (60%). There
+  is a small portion of the work that may require manual dexterity (15%), such as
+  handling paperwork or setting up equipment for presentations or community events.
+  The intrinsic technological vulnerability is low (10%) due to the high demand for
+  human empathy, understanding, and interaction in these roles.
+group: 0.6
+solo: 0.25
+vulnerability: 0.1

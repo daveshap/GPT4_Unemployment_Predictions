@@ -1,0 +1,19 @@
+Jobs Lost: 101884.65000000001
+Jobs Remaining: 6690425.35
+OCC_CODE: 31-0000
+OCC_TITLE: Healthcare Support Occupations
+TOT_EMP: 6,792,310
+dexterity: 0.65
+explanation: Healthcare Support Occupations involve a high degree of physical contact
+  and dexterity, such as assisting patients with mobility, providing basic care, and
+  performing certain medical procedures. This accounts for the high dexterity score
+  of 0.65. Solo computer work is relatively low at 0.15, as these roles often require
+  direct patient interaction rather than isolated computer tasks. Group collaboration
+  and communication is also significant at 0.20, due to the need for coordination
+  with other healthcare professionals and communication with patients and their families.
+  The vulnerability to AI displacement is low at 0.10, as the human touch and judgement
+  are critical in healthcare support roles, and cannot be easily replaced by AI or
+  machines.
+group: 0.2
+solo: 0.15
+vulnerability: 0.1

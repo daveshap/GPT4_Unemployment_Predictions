@@ -1,0 +1,13 @@
+Jobs Lost: 956.5500000000001
+Jobs Remaining: 62813.45
+OCC_CODE: 39-4000
+OCC_TITLE: Funeral Service Workers
+TOT_EMP: 63,770
+dexterity: 0.35
+explanation: Funeral Service Workers require a high level of human interaction and
+  empathy, which is difficult to automate. They also perform tasks that require manual
+  dexterity such as preparing bodies for viewing and burial. While some administrative
+  tasks could be automated, the majority of their work is not easily replaced by AI.
+group: 0.5
+solo: 0.15
+vulnerability: 0.1

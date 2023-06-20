@@ -1,0 +1,16 @@
+Jobs Lost: 366837.89999999997
+Jobs Remaining: 3948902.1
+OCC_CODE: 53-3000
+OCC_TITLE: Motor Vehicle Operators
+TOT_EMP: 4,315,740
+dexterity: 0.7
+explanation: Motor Vehicle Operators primarily require high dexterity physical contact
+  (70%) as they need to operate vehicles, which involves manual dexterity and kinetic
+  intelligence. Solo computer work is minimal (10%) as most of their work is not done
+  in front of a computer. Group collaboration and communication is moderate (20%)
+  as they may need to interact with customers or other staff. The vulnerability to
+  AI is high (85%) as AI technology advances, especially in the field of autonomous
+  vehicles, which could potentially replace human drivers.
+group: 0.2
+solo: 0.1
+vulnerability: 0.85

@@ -1,0 +1,15 @@
+Jobs Lost: 2802189.6
+Jobs Remaining: 2201720.4
+OCC_CODE: 15-0000
+OCC_TITLE: Computer and Mathematical Occupations
+TOT_EMP: 5,003,910
+dexterity: 0.05
+explanation: Computer and Mathematical Occupations primarily involve solo computer
+  work, which is highly susceptible to automation. The dexterity component is minimal,
+  as these jobs do not require significant physical labor or manual dexterity. There
+  is a moderate amount of group collaboration and communication involved, but this
+  is not the primary component of the work. Given the nature of the work and the capabilities
+  of AI, there is a high risk of job displacement in this field, estimated at 80%.
+group: 0.25
+solo: 0.7
+vulnerability: 0.8

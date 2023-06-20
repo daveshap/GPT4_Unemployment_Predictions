@@ -1,0 +1,19 @@
+Jobs Lost: 2569.7999999999997
+Jobs Remaining: 40260.2
+OCC_CODE: 45-4000
+OCC_TITLE: Forest, Conservation, and Logging Workers
+TOT_EMP: 42,830
+dexterity: 0.7
+explanation: Forest, Conservation, and Logging Workers perform a significant amount
+  of physical labor that requires high dexterity, hence the high dexterity score of
+  0.7. Solo computer work is minimal in this occupation, hence the low score of 0.1.
+  There is some level of group collaboration and communication involved, especially
+  in planning and coordinating tasks, hence the score of 0.2. The vulnerability score
+  is relatively high at 0.6, as while the physical nature of the work may protect
+  some jobs from automation, advancements in AI and machinery could potentially automate
+  tasks such as tree cutting and logging. However, the conservation aspect of the
+  job, which requires human judgment and decision-making, may be less susceptible
+  to automation.
+group: 0.2
+solo: 0.1
+vulnerability: 0.6

@@ -1,0 +1,16 @@
+Jobs Lost: 242748.525
+Jobs Remaining: 1661161.475
+OCC_CODE: 51-2000
+OCC_TITLE: Assemblers and Fabricators
+TOT_EMP: 1,903,910
+dexterity: 0.65
+explanation: Assemblers and Fabricators primarily engage in high dexterity physical
+  work, which is difficult to automate. However, given the repetitive nature of the
+  tasks and the limited need for fine motor skills, a significant portion of these
+  jobs could be automated. Solo computer work and group collaboration are less common
+  in this occupation, but they do exist. The high vulnerability score reflects the
+  fact that there is no intrinsic need for humans in this role, as machines can potentially
+  perform the assembly and fabrication tasks.
+group: 0.2
+solo: 0.15
+vulnerability: 0.85

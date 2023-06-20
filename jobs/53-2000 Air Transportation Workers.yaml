@@ -1,0 +1,17 @@
+Jobs Lost: 39594.799999999996
+Jobs Remaining: 243225.2
+OCC_CODE: 53-2000
+OCC_TITLE: Air Transportation Workers
+TOT_EMP: 282,820
+dexterity: 0.6
+explanation: Air Transportation Workers, such as pilots and flight attendants, require
+  a high level of dexterity and coordination to perform their tasks, hence a 60% allocation.
+  Solo computer work, such as flight planning and navigation, accounts for 20% of
+  their tasks. Group collaboration and communication, such as coordinating with ground
+  crew and communicating with passengers, also accounts for 20% of their tasks. However,
+  with the rise of AI, there is a high risk of job displacement, especially for pilots,
+  as AI can potentially take over navigation and flight control tasks. Therefore,
+  a vulnerability score of 70% is assigned.
+group: 0.2
+solo: 0.2
+vulnerability: 0.7

@@ -1,0 +1,14 @@
+Jobs Lost: 24259.05
+Jobs Remaining: 514830.95
+OCC_CODE: 39-3000
+OCC_TITLE: Entertainment Attendants and Related Workers
+TOT_EMP: 539,090
+dexterity: 0.35
+explanation: Entertainment attendants and related workers often require a high level
+  of human interaction and physical dexterity, such as setting up equipment, interacting
+  with guests, and performing tasks that require a human touch. While some tasks may
+  be automated, the nature of the work often requires a human presence for optimal
+  performance. Therefore, the risk of displacement due to AI is relatively low.
+group: 0.5
+solo: 0.15
+vulnerability: 0.3

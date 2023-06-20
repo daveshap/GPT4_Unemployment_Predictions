@@ -1,0 +1,18 @@
+Jobs Lost: 524106.0
+Jobs Remaining: 5299294.0
+OCC_CODE: 49-0000
+OCC_TITLE: Installation, Maintenance, and Repair Occupations
+TOT_EMP: 5,823,400
+dexterity: 0.65
+explanation: Installation, Maintenance, and Repair Occupations require a high level
+  of manual dexterity (65%) as they often involve physical labor and precise manual
+  tasks. While some tasks may be performed individually and involve computer work
+  (15%), a significant portion of the work also involves collaboration and communication
+  with others (20%). Given the nature of the work, there is a moderate to high risk
+  of job displacement due to AI and automation (60%). However, the need for human
+  intervention in complex repair and maintenance tasks, as well as the need for human
+  judgment in diagnosing issues, may still preserve a significant portion of jobs
+  in this category.
+group: 0.2
+solo: 0.15
+vulnerability: 0.6

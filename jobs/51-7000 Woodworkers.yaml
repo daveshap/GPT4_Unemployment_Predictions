@@ -1,0 +1,18 @@
+Jobs Lost: 13873.8
+Jobs Remaining: 217356.2
+OCC_CODE: 51-7000
+OCC_TITLE: Woodworkers
+TOT_EMP: 231,230
+dexterity: 0.7
+explanation: Woodworkers require a high level of manual dexterity (70%) for tasks
+  such as cutting, shaping, and sanding wood. There is a small portion of their work
+  that involves solo computer work (10%), such as designing or planning projects.
+  They also need to collaborate and communicate with others (20%), for instance, when
+  working on larger projects or when dealing with clients. However, with the rise
+  of AI and automation, there is a significant risk (60%) of job displacement. This
+  is because many of the tasks performed by woodworkers can be automated, such as
+  cutting and shaping wood. However, there will still be a demand for human woodworkers
+  for tasks that require a high level of craftsmanship or for custom projects.
+group: 0.2
+solo: 0.1
+vulnerability: 0.6

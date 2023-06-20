@@ -1,0 +1,16 @@
+Jobs Lost: 180861.40000000002
+Jobs Remaining: 8862208.6
+OCC_CODE: 29-0000
+OCC_TITLE: Healthcare Practitioners and Technical Occupations
+TOT_EMP: 9,043,070
+dexterity: 0.6
+explanation: Healthcare Practitioners and Technical Occupations require a high level
+  of manual dexterity (60%) for tasks such as surgery, physical examinations, and
+  administering treatments. While there is some solo computer work involved (20%),
+  such as data entry and research, a significant portion of the job also involves
+  group collaboration and communication (20%) with patients and other healthcare professionals.
+  The intrinsic technological vulnerability is low (10%) due to the high demand for
+  human touch, empathy, and judgement in healthcare.
+group: 0.2
+solo: 0.2
+vulnerability: 0.1

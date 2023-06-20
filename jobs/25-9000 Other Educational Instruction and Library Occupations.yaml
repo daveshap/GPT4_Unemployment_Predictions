@@ -1,0 +1,17 @@
+Jobs Lost: 86273.0
+Jobs Remaining: 1639187.0
+OCC_CODE: 25-9000
+OCC_TITLE: Other Educational Instruction and Library Occupations
+TOT_EMP: 1,725,460
+dexterity: 0.15
+explanation: This occupation code includes a variety of educational and library occupations.
+  The high dexterity component (15%) is due to tasks such as handling books, materials,
+  and equipment. Solo computer work (25%) includes tasks such as research, planning,
+  and administrative tasks. The majority of the work (60%) involves group collaboration
+  and communication, such as teaching, coaching, and interacting with students or
+  library patrons. The intrinsic technological vulnerability is relatively low (20%)
+  because the human element is crucial in education and library services, for understanding,
+  empathy, and personalized service.
+group: 0.6
+solo: 0.25
+vulnerability: 0.2

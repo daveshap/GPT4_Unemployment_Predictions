@@ -1,0 +1,16 @@
+Jobs Lost: 103128.3
+Jobs Remaining: 3334481.7
+OCC_CODE: 33-0000
+OCC_TITLE: Protective Service Occupations
+TOT_EMP: 3,437,610
+dexterity: 0.35
+explanation: Protective Service Occupations involve a significant amount of human
+  interaction and decision-making, which is why the group collaboration and communication
+  percentage is high. These jobs also require a certain level of physical dexterity,
+  such as in situations of law enforcement or firefighting. Solo computer work is
+  relatively low as these jobs are not typically desk jobs. The vulnerability to AI
+  displacement is relatively low due to the high demand for human judgment, interaction,
+  and physical presence in these roles.
+group: 0.5
+solo: 0.15
+vulnerability: 0.2

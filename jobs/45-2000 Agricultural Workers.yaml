@@ -1,0 +1,18 @@
+Jobs Lost: 33192.5
+Jobs Remaining: 357307.5
+OCC_CODE: 45-2000
+OCC_TITLE: Agricultural Workers
+TOT_EMP: 390,500
+dexterity: 0.7
+explanation: Agricultural workers often engage in high dexterity physical work such
+  as planting, cultivating, and harvesting crops, and tending to livestock. These
+  tasks require a significant amount of manual labor and coordination, hence the high
+  dexterity score. However, with the advent of AI and automation, many of these tasks
+  can be mechanized, leading to a high vulnerability score. Solo computer work is
+  minimal in this occupation, as most tasks are performed outdoors and not in front
+  of a computer. Group collaboration and communication are also part of the job, but
+  not as significant as the physical labor aspect. Therefore, the risk of job displacement
+  due to AI and automation is quite high for agricultural workers.
+group: 0.2
+solo: 0.1
+vulnerability: 0.85

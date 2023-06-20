@@ -1,0 +1,16 @@
+Jobs Lost: 145992.0
+Jobs Remaining: 1070608.0
+OCC_CODE: 23-0000
+OCC_TITLE: Legal Occupations
+TOT_EMP: 1,216,600
+dexterity: 0.1
+explanation: Legal occupations often require a high degree of human judgement, decision-making,
+  and face-to-face interactions, making them less susceptible to automation. However,
+  some aspects of the work, such as research, document review, and drafting, can be
+  done solo on a computer and are thus more vulnerable to automation. The dexterity
+  component is relatively low as most legal work does not require manual labor. The
+  overall vulnerability to displacement by AI is estimated to be moderate, as AI can
+  potentially take over some tasks but not all.
+group: 0.5
+solo: 0.4
+vulnerability: 0.3

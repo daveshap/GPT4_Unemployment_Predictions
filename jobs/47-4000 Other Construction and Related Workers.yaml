@@ -1,0 +1,18 @@
+Jobs Lost: 26797.8
+Jobs Remaining: 419832.2
+OCC_CODE: 47-4000
+OCC_TITLE: Other Construction and Related Workers
+TOT_EMP: 446,630
+dexterity: 0.7
+explanation: The occupation code 47-4000 refers to Other Construction and Related
+  Workers. This job category involves a significant amount of manual labor and coordination,
+  hence a high dexterity score of 0.7. There is minimal solo computer work involved,
+  estimated at 0.1. Group collaboration and communication are essential in this field,
+  especially for safety and coordination of tasks, hence a score of 0.2. The vulnerability
+  to AI displacement is relatively high at 0.6, as some tasks could be automated,
+  such as operating machinery or repetitive tasks. However, the need for human judgment,
+  especially in unpredictable construction environments, and the high dexterity tasks
+  involved, reduce the total displacement risk.
+group: 0.2
+solo: 0.1
+vulnerability: 0.6

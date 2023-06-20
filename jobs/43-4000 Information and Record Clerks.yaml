@@ -1,0 +1,16 @@
+Jobs Lost: 3341496.1999999997
+Jobs Remaining: 2274463.8000000003
+OCC_CODE: 43-4000
+OCC_TITLE: Information and Record Clerks
+TOT_EMP: 5,615,960
+dexterity: 0.1
+explanation: Information and Record Clerks primarily perform tasks that involve organizing,
+  recording, and storing information. These tasks are highly susceptible to automation
+  as they often involve solo computer work. The dexterity required is minimal, as
+  most tasks can be performed without the need for fine motor skills or kinetic intelligence.
+  While there is some level of group collaboration and communication, it is not the
+  primary function of the job. Given the nature of the tasks involved and the capabilities
+  of AI, there is a high risk of job displacement in this field.
+group: 0.2
+solo: 0.7
+vulnerability: 0.85

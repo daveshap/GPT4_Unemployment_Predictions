@@ -1,0 +1,17 @@
+Jobs Lost: 43035.299999999996
+Jobs Remaining: 275744.7
+OCC_CODE: 19-1000
+OCC_TITLE: Life Scientists
+TOT_EMP: 318,780
+dexterity: 0.15
+explanation: Life Scientists often require a certain level of manual dexterity for
+  tasks such as lab experiments and field work, hence a 15% allocation. A significant
+  portion of their work involves data analysis and report writing, which can be done
+  solo on a computer, hence a 45% allocation. Collaboration is also key in this field
+  for brainstorming, discussing findings and planning further research, hence a 40%
+  allocation. The intrinsic technological vulnerability is estimated at 30% as while
+  some tasks can be automated, the need for human judgement, creativity and ethical
+  considerations in life sciences research is still high.
+group: 0.4
+solo: 0.45
+vulnerability: 0.3

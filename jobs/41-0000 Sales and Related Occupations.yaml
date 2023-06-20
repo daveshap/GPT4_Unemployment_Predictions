@@ -1,0 +1,15 @@
+Jobs Lost: 1054660.0
+Jobs Remaining: 12128590.0
+OCC_CODE: 41-0000
+OCC_TITLE: Sales and Related Occupations
+TOT_EMP: 13,183,250
+dexterity: 0.1
+explanation: Sales and related occupations often require a high level of human interaction,
+  hence the high percentage in group collaboration and communication. While some tasks
+  can be automated, such as data entry and analysis (solo computer work), the need
+  for negotiation, persuasion, and relationship building in sales roles makes them
+  less susceptible to automation. However, there is still a moderate risk of displacement
+  due to advancements in AI customer service and sales technologies.
+group: 0.7
+solo: 0.2
+vulnerability: 0.4

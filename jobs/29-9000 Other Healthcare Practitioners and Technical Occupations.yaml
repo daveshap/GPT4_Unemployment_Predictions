@@ -1,0 +1,20 @@
+Jobs Lost: 4807.5
+Jobs Remaining: 123392.5
+OCC_CODE: 29-9000
+OCC_TITLE: Other Healthcare Practitioners and Technical Occupations
+TOT_EMP: 128,200
+dexterity: 0.45
+explanation: The occupation code 29-9000 includes a variety of healthcare practitioners
+  and technical occupations. These jobs often require a high level of manual dexterity
+  (45%) for tasks such as administering treatments or operating medical equipment.
+  A significant portion of the work (25%) can be done solo, such as record keeping
+  or analyzing medical data, which could potentially be automated. However, a substantial
+  part of the job (30%) involves group collaboration and communication, such as discussing
+  patient care with other healthcare professionals or educating patients, which is
+  less likely to be automated. Given the high demand for human interaction and judgment
+  in healthcare, the intrinsic technological vulnerability is relatively low (15%).
+  Despite advancements in AI, the complex and unpredictable nature of healthcare work
+  makes it less susceptible to automation.
+group: 0.3
+solo: 0.25
+vulnerability: 0.15

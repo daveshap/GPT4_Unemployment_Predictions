@@ -1,0 +1,18 @@
+Jobs Lost: 28356.5
+Jobs Remaining: 2807293.5
+OCC_CODE: 39-0000
+OCC_TITLE: Personal Care and Service Occupations
+TOT_EMP: 2,835,650
+dexterity: 0.6
+explanation: Personal Care and Service Occupations require a high level of dexterity
+  (60%) as they often involve tasks such as grooming, feeding, and assisting individuals
+  with personal care. These tasks require a level of physical interaction and coordination
+  that AI and robotics currently struggle with. Solo computer work is minimal (10%)
+  as these jobs are not typically desk-based or computer-focused. Group collaboration
+  and communication is significant (30%) as these roles often require interaction
+  with clients, families, and other care providers. The vulnerability to AI displacement
+  is low (10%) due to the high need for human interaction, empathy, and physical dexterity
+  in these roles.
+group: 0.3
+solo: 0.1
+vulnerability: 0.1

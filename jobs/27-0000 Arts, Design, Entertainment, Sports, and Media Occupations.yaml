@@ -1,0 +1,18 @@
+Jobs Lost: 154753.5
+Jobs Remaining: 1908626.5
+OCC_CODE: 27-0000
+OCC_TITLE: Arts, Design, Entertainment, Sports, and Media Occupations
+TOT_EMP: 2,063,380
+dexterity: 0.35
+explanation: Arts, Design, Entertainment, Sports, and Media Occupations often require
+  a high level of creativity, human interaction, and physical dexterity, which are
+  difficult to automate. While some aspects of these jobs, such as editing or graphic
+  design, can be done on a computer and are thus susceptible to automation, many other
+  aspects, such as performing arts or sports, require physical presence and dexterity.
+  Furthermore, these occupations often require a high level of group collaboration
+  and communication, such as in brainstorming sessions or team sports. Therefore,
+  while there is some risk of job displacement due to AI, it is relatively low compared
+  to other occupations.
+group: 0.4
+solo: 0.25
+vulnerability: 0.3

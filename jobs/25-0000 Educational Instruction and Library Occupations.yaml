@@ -1,0 +1,20 @@
+Jobs Lost: 424839.0
+Jobs Remaining: 8071941.0
+OCC_CODE: 25-0000
+OCC_TITLE: Educational Instruction and Library Occupations
+TOT_EMP: 8,496,780
+dexterity: 0.15
+explanation: Educational Instruction and Library Occupations require a significant
+  amount of group collaboration and communication, as teaching, coaching, and library
+  assistance often involve direct human interaction. This makes up an estimated 60%
+  of the work activities. Solo computer work, such as lesson planning, grading, and
+  research, may account for about 25% of the work. High dexterity physical contact
+  is less common in these occupations, but may still account for around 15% of the
+  work, such as handling books in a library or demonstrating a task in a classroom.
+  The intrinsic technological vulnerability is relatively low, at 20%, as the human
+  element is crucial in education and library services. While certain tasks may be
+  automated, the need for human interaction and judgement in these fields is likely
+  to remain.
+group: 0.6
+solo: 0.25
+vulnerability: 0.2

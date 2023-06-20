@@ -1,0 +1,20 @@
+Jobs Lost: 2820.9
+Jobs Remaining: 185239.1
+OCC_CODE: 31-2000
+OCC_TITLE: Occupational Therapy and Physical Therapist Assistants and Aides
+TOT_EMP: 188,060
+dexterity: 0.65
+explanation: Occupational Therapy and Physical Therapist Assistants and Aides require
+  a high level of manual dexterity and physical contact with patients (65%). This
+  includes tasks such as assisting with exercises, providing therapeutic treatments,
+  and helping patients with daily activities. These tasks are difficult to automate
+  due to the need for human touch, empathy, and judgement. A smaller portion of their
+  work involves solo computer work (15%), such as updating patient records or researching
+  treatment plans. Group collaboration and communication (20%) is also a significant
+  part of their work, as they often work in teams with other healthcare professionals
+  and communicate directly with patients and their families. The intrinsic technological
+  vulnerability is low (10%) because the nature of the work requires a high level
+  of human interaction and care, which cannot be easily replaced by AI or machines.
+group: 0.2
+solo: 0.15
+vulnerability: 0.1

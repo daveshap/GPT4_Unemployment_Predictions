@@ -1,0 +1,16 @@
+Jobs Lost: 48483.75
+Jobs Remaining: 413266.25
+OCC_CODE: 45-0000
+OCC_TITLE: Farming, Fishing, and Forestry Occupations
+TOT_EMP: 461,750
+dexterity: 0.65
+explanation: Farming, Fishing, and Forestry Occupations require a significant amount
+  of manual labor and coordination, hence the high dexterity score. However, with
+  the rise of automated farming equipment and AI-driven decision-making tools, a large
+  portion of these tasks could be automated, leading to a high vulnerability score.
+  Solo computer work is relatively low as these occupations are not typically desk-based.
+  Group collaboration and communication are moderately present in these occupations,
+  but not as prevalent as physical labor.
+group: 0.2
+solo: 0.15
+vulnerability: 0.7

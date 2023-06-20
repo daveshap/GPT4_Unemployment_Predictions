@@ -1,0 +1,16 @@
+Jobs Lost: 1680351.3999999997
+Jobs Remaining: 1143768.6000000003
+OCC_CODE: 43-3000
+OCC_TITLE: Financial Clerks
+TOT_EMP: 2,824,120
+dexterity: 0.05
+explanation: Financial Clerks primarily perform tasks that involve solo computer work
+  such as data entry, record keeping, and financial transactions which are highly
+  susceptible to automation. The dexterity component is minimal as the job does not
+  require significant physical labor or fine motor skills. While there is some element
+  of group collaboration and communication, it is not the primary component of the
+  job. Given the nature of the tasks involved and the capabilities of AI, there is
+  a high risk of job displacement in this field.
+group: 0.25
+solo: 0.7
+vulnerability: 0.85

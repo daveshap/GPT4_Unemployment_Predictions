@@ -1,0 +1,17 @@
+Jobs Lost: 1728958.65
+Jobs Remaining: 11831501.35
+OCC_CODE: 53-0000
+OCC_TITLE: Transportation and Material Moving Occupations
+TOT_EMP: 13,560,460
+dexterity: 0.65
+explanation: Transportation and Material Moving Occupations often require a high level
+  of dexterity, as they involve operating vehicles or moving heavy objects. However,
+  with the rise of AI, many of these tasks could be automated, especially those that
+  involve repetitive or predictable movements. Solo computer work is relatively low,
+  as these jobs often require physical presence rather than remote work. Group collaboration
+  and communication is also a significant part of these jobs, but it's not the majority.
+  The vulnerability of these jobs to AI is quite high, as many of the tasks they perform
+  could be automated with the right technology.
+group: 0.2
+solo: 0.15
+vulnerability: 0.85

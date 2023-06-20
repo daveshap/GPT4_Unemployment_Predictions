@@ -1,0 +1,21 @@
+Jobs Lost: 671207.6
+Jobs Remaining: 7225352.4
+OCC_CODE: 53-7000
+OCC_TITLE: Material Moving Workers
+TOT_EMP: 7,896,560
+dexterity: 0.7
+explanation: Material Moving Workers, as per the Occupation Code 53-7000, primarily
+  engage in tasks that require high dexterity and physical contact, such as moving,
+  loading, and unloading materials. This accounts for approximately 70% of their work
+  activities. About 10% of their work involves solo computer work, such as logging
+  inventory or operating computerized equipment. The remaining 20% of their work involves
+  group collaboration and communication, such as coordinating with team members or
+  supervisors. Given the nature of their work, they have a high vulnerability to job
+  displacement due to AI and automation, estimated at 85%. This is because their tasks,
+  while requiring physical dexterity, do not necessarily require the nuanced judgment
+  or interpersonal skills that AI currently struggles to replicate. Furthermore, the
+  rise of automated vehicles and machinery could potentially replace many of their
+  tasks.
+group: 0.2
+solo: 0.1
+vulnerability: 0.85

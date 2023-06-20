@@ -1,0 +1,18 @@
+Jobs Lost: 102636.45
+Jobs Remaining: 874853.55
+OCC_CODE: 11-2000
+OCC_TITLE: Advertising, Marketing, Promotions, Public Relations, and Sales Managers
+TOT_EMP: 977,490
+dexterity: 0.05
+explanation: The occupation of Advertising, Marketing, Promotions, Public Relations,
+  and Sales Managers involves a significant amount of group collaboration and communication,
+  which is difficult to automate. This includes tasks such as meetings, marketing
+  strategies, coaching, and teaching. Solo computer work, such as data analysis and
+  report writing, makes up a smaller portion of the job, but is more susceptible to
+  automation. High dexterity physical contact is minimal in this occupation. Despite
+  the potential for automation in some areas, the intrinsic need for human judgment,
+  creativity, and interpersonal skills in this field suggests a relatively lower risk
+  of job displacement due to AI.
+group: 0.6
+solo: 0.35
+vulnerability: 0.3

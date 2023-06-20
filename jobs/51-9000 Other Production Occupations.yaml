@@ -1,0 +1,19 @@
+Jobs Lost: 322822.35
+Jobs Remaining: 2209117.65
+OCC_CODE: 51-9000
+OCC_TITLE: Other Production Occupations
+TOT_EMP: 2,531,940
+dexterity: 0.65
+explanation: The occupation code 51-9000, Other Production Occupations, primarily
+  involves tasks that require high dexterity and physical contact, such as operating
+  machinery or assembling products. This accounts for 65% of the work activities.
+  About 15% of the work can be done solo on a computer, such as monitoring production
+  processes or entering data. Around 20% of the work involves group collaboration
+  and communication, such as coordinating with other team members or discussing production
+  plans. However, given the nature of production work and the advancements in automation
+  and AI, this occupation has a high vulnerability to job displacement. It is estimated
+  that 85% of these jobs could potentially be automated, as there is no intrinsic
+  need for humans in most of the tasks involved in production.
+group: 0.2
+solo: 0.15
+vulnerability: 0.85

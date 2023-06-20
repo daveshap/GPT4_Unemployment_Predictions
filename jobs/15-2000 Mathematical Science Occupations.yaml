@@ -1,0 +1,18 @@
+Jobs Lost: 137088.0
+Jobs Remaining: 189312.0
+OCC_CODE: 15-2000
+OCC_TITLE: Mathematical Science Occupations
+TOT_EMP: 326,400
+dexterity: 0.05
+explanation: Mathematical Science Occupations primarily involve solo computer work,
+  such as data analysis, algorithm development, and mathematical modeling, which are
+  highly susceptible to automation. However, there is also a significant portion of
+  work that involves group collaboration and communication, such as presenting findings,
+  collaborating on projects, and teaching. The dexterity component is minimal, as
+  these occupations do not typically involve manual labor. The vulnerability to AI
+  displacement is relatively high due to the significant portion of work that can
+  be automated. However, the need for human judgment, creativity, and communication
+  in these roles provides some level of job security.
+group: 0.25
+solo: 0.7
+vulnerability: 0.6

@@ -1,0 +1,16 @@
+Jobs Lost: 77551.6
+Jobs Remaining: 199418.4
+OCC_CODE: 51-8000
+OCC_TITLE: Plant and System Operators
+TOT_EMP: 276,970
+dexterity: 0.45
+explanation: Plant and System Operators require a moderate level of dexterity for
+  operating machinery and equipment (45%). A significant portion of their work involves
+  solo computer work, such as monitoring systems and adjusting controls (35%). They
+  also need to collaborate and communicate with other team members, but this is a
+  smaller portion of their work (20%). Given the nature of their work and the capabilities
+  of AI, there is a high risk of job displacement (80%) as many of their tasks can
+  be automated and do not intrinsically require human involvement.
+group: 0.2
+solo: 0.35
+vulnerability: 0.8

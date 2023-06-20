@@ -1,0 +1,17 @@
+Jobs Lost: 83857.5
+Jobs Remaining: 475192.5
+OCC_CODE: 49-1000
+OCC_TITLE: Supervisors of Installation, Maintenance, and Repair Workers
+TOT_EMP: 559,050
+dexterity: 0.35
+explanation: Supervisors of Installation, Maintenance, and Repair Workers often require
+  a high level of dexterity for overseeing and sometimes participating in physical
+  tasks, which accounts for 35% of their work. About 25% of their work involves solo
+  computer tasks such as scheduling, reporting, and other administrative tasks that
+  could be automated. A significant portion of their work, 40%, involves group collaboration
+  and communication, which is harder to automate. However, given the nature of their
+  work, there is a 60% vulnerability to job displacement due to AI and automation,
+  as many of their supervisory tasks could potentially be automated or streamlined.
+group: 0.4
+solo: 0.25
+vulnerability: 0.6

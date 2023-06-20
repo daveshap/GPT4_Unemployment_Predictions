@@ -1,0 +1,17 @@
+Jobs Lost: 4108.8
+Jobs Remaining: 201331.2
+OCC_CODE: 39-1000
+OCC_TITLE: Supervisors of Personal Care and Service Workers
+TOT_EMP: 205,440
+dexterity: 0.2
+explanation: Supervisors of Personal Care and Service Workers require a high level
+  of group collaboration and communication, as they need to manage and coordinate
+  the activities of personal care and service workers. This involves a lot of face-to-face
+  interactions, meetings, and coaching, which is difficult to automate. They also
+  perform some tasks that require manual dexterity and solo computer work, but these
+  are not the main part of their job. The intrinsic technological vulnerability is
+  low, as the nature of their work requires a human touch and judgment that cannot
+  be easily replaced by AI or machines.
+group: 0.6
+solo: 0.2
+vulnerability: 0.1

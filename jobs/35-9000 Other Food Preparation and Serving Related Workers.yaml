@@ -1,0 +1,18 @@
+Jobs Lost: 40618.5
+Jobs Remaining: 1313331.5
+OCC_CODE: 35-9000
+OCC_TITLE: Other Food Preparation and Serving Related Workers
+TOT_EMP: 1,353,950
+dexterity: 0.65
+explanation: The occupation of Other Food Preparation and Serving Related Workers
+  involves a significant amount of manual labor, including food preparation and serving,
+  which requires high dexterity and physical contact (65%). A small portion of the
+  work may involve solo computer work such as inventory management or order processing
+  (5%). A considerable part of the job involves group collaboration and communication,
+  such as coordinating with kitchen staff and interacting with customers (30%). The
+  intrinsic technological vulnerability is relatively high (60%) due to the potential
+  for automation in food preparation and order processing, but the need for human
+  interaction and manual dexterity in serving reduces the total risk.
+group: 0.3
+solo: 0.05
+vulnerability: 0.6

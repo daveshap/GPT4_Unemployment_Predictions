@@ -1,0 +1,19 @@
+Jobs Lost: 5632.3
+Jobs Remaining: 1120827.7
+OCC_CODE: 39-9000
+OCC_TITLE: Other Personal Care and Service Workers
+TOT_EMP: 1,126,460
+dexterity: 0.65
+explanation: The occupation code 39-9000 refers to Other Personal Care and Service
+  Workers. This category includes a wide range of jobs that require high dexterity
+  and human interaction, such as personal care aides, childcare workers, and fitness
+  trainers. These jobs require a high level of physical contact and coordination,
+  which is why the dexterity value is set at 0.65. Solo computer work is minimal in
+  these roles, hence the low value of 0.05. Group collaboration and communication
+  are also significant in these roles, with a value of 0.3. Given the high demand
+  for human interaction and physical contact in these roles, the vulnerability to
+  AI displacement is relatively low, with a value of 0.1. This means that only about
+  10% of these jobs are at risk of being displaced by AI and automation.
+group: 0.3
+solo: 0.05
+vulnerability: 0.1

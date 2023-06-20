@@ -1,0 +1,18 @@
+Jobs Lost: 99278.54999999999
+Jobs Remaining: 531061.45
+OCC_CODE: 27-3000
+OCC_TITLE: Media and Communication Workers
+TOT_EMP: 630,340
+dexterity: 0.15
+explanation: Media and Communication Workers often require a mix of solo computer
+  work, group collaboration, and some level of dexterity. The solo computer work,
+  such as writing, editing, and digital design, is highly susceptible to automation.
+  However, the group collaboration aspect, which includes brainstorming sessions,
+  meetings, and presentations, is less likely to be automated. The dexterity component
+  comes into play in tasks such as setting up equipment for recording or broadcasting.
+  The intrinsic technological vulnerability is moderate as the creative and human
+  aspect of this occupation is still crucial, despite the potential for automation
+  in certain tasks.
+group: 0.4
+solo: 0.45
+vulnerability: 0.35

@@ -1,0 +1,18 @@
+Jobs Lost: 149131.75
+Jobs Remaining: 5816138.25
+OCC_CODE: 29-1000
+OCC_TITLE: Healthcare Diagnosing or Treating Practitioners
+TOT_EMP: 5,965,270
+dexterity: 0.45
+explanation: Healthcare diagnosing or treating practitioners require a high level
+  of manual dexterity (45%) for tasks such as surgery, physical examination, and administering
+  treatments. They also spend a significant amount of time (30%) in group collaboration
+  and communication, discussing patient care with other healthcare professionals and
+  communicating with patients and their families. Solo computer work, such as updating
+  patient records or researching medical literature, accounts for about 25% of their
+  work. The intrinsic technological vulnerability is low (10%) because the human touch,
+  empathy, and judgement are critical in healthcare, and it is unlikely that patients
+  would accept being diagnosed or treated solely by AI or robots.
+group: 0.3
+solo: 0.25
+vulnerability: 0.1

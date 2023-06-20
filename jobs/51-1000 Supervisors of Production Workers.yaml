@@ -1,0 +1,18 @@
+Jobs Lost: 79191.59999999999
+Jobs Remaining: 580738.4
+OCC_CODE: 51-1000
+OCC_TITLE: Supervisors of Production Workers
+TOT_EMP: 659,930
+dexterity: 0.3
+explanation: Supervisors of Production Workers require a significant amount of group
+  collaboration and communication (50%) as they need to manage teams, coordinate tasks,
+  and ensure safety regulations are followed. They also require a fair amount of dexterity
+  (30%) as they often need to demonstrate tasks, operate machinery, or step in to
+  assist with production. Solo computer work (20%) might involve scheduling, reporting,
+  and other administrative tasks. The vulnerability to AI displacement is estimated
+  at 60% as while AI can take over administrative tasks and some aspects of machinery
+  operation, the human element in team management and on-the-spot decision making
+  is still crucial.
+group: 0.5
+solo: 0.2
+vulnerability: 0.6

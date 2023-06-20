@@ -1,0 +1,21 @@
+Jobs Lost: 496234.0
+Jobs Remaining: 1984936.0
+OCC_CODE: 17-0000
+OCC_TITLE: Architecture and Engineering Occupations
+TOT_EMP: 2,481,170
+dexterity: 0.2
+explanation: Architecture and Engineering Occupations require a significant amount
+  of solo computer work, such as designing, modeling, and analyzing data, which makes
+  up about 50% of the job activities. These tasks are highly susceptible to automation.
+  However, these occupations also require a fair amount of group collaboration and
+  communication, such as project meetings, client interactions, and team collaborations,
+  which account for about 30% of the job activities. These tasks are less likely to
+  be automated. A smaller portion of the job activities, about 20%, involves high
+  dexterity physical contact, such as on-site inspections and manual adjustments,
+  which are the hardest to automate. Given the nature of these occupations, the intrinsic
+  technological vulnerability is estimated to be 40%, as there is a significant need
+  for human judgment, creativity, and interaction, especially in the design and decision-making
+  processes.
+group: 0.3
+solo: 0.5
+vulnerability: 0.4

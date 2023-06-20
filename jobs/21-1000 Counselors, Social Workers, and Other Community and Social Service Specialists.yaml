@@ -1,0 +1,18 @@
+Jobs Lost: 44514.600000000006
+Jobs Remaining: 2181215.4
+OCC_CODE: 21-1000
+OCC_TITLE: Counselors, Social Workers, and Other Community and Social Service Specialists
+TOT_EMP: 2,225,730
+dexterity: 0.1
+explanation: The occupation of Counselors, Social Workers, and Other Community and
+  Social Service Specialists involves a significant amount of group collaboration
+  and communication, as it requires face-to-face interactions with clients, colleagues,
+  and other stakeholders. This makes up about 70% of the work activities. Solo computer
+  work, such as documentation and research, accounts for about 20% of the work. High
+  dexterity physical contact is minimal, estimated at 10%, as the job does not require
+  much manual labor. The intrinsic technological vulnerability is low, at 10%, as
+  the nature of the work requires a high level of human interaction and empathy, which
+  cannot be easily replaced by AI or machines.
+group: 0.7
+solo: 0.2
+vulnerability: 0.1

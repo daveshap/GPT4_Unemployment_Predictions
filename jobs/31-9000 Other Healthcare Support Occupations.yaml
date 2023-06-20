@@ -1,0 +1,19 @@
+Jobs Lost: 34291.0
+Jobs Remaining: 1680259.0
+OCC_CODE: 31-9000
+OCC_TITLE: Other Healthcare Support Occupations
+TOT_EMP: 1,714,550
+dexterity: 0.6
+explanation: Other Healthcare Support Occupations (31-9000) involve a significant
+  amount of physical contact and dexterity, such as assisting patients with mobility,
+  performing therapeutic procedures, and handling medical equipment, which is difficult
+  to automate. Therefore, a high percentage (60%) of their work involves high dexterity
+  physical contact. Solo computer work is minimal (10%) as these roles are not typically
+  desk jobs. Group collaboration and communication is essential (30%) as they often
+  work in teams and need to communicate effectively with patients and other healthcare
+  professionals. The intrinsic technological vulnerability is relatively low (20%)
+  because the human touch and interaction in healthcare support is crucial and cannot
+  be fully replaced by AI or machines.
+group: 0.3
+solo: 0.1
+vulnerability: 0.2

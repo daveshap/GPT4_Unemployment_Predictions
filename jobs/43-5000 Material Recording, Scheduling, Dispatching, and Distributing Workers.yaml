@@ -1,0 +1,18 @@
+Jobs Lost: 1107168.0
+Jobs Remaining: 1199432.0
+OCC_CODE: 43-5000
+OCC_TITLE: Material Recording, Scheduling, Dispatching, and Distributing Workers
+TOT_EMP: 2,306,600
+dexterity: 0.2
+explanation: The occupation of Material Recording, Scheduling, Dispatching, and Distributing
+  Workers involves tasks that are largely computer-based, such as scheduling, dispatching,
+  and tracking shipments or deliveries. These tasks can be automated with AI, hence
+  the high percentage of solo computer work (60%) and high vulnerability (80%). The
+  job does require some level of dexterity for tasks such as handling materials, hence
+  the 20% dexterity. Group collaboration and communication is not a major part of
+  this job, but it is necessary for coordinating with other team members or departments,
+  hence the 20% group work. Given the high potential for automation, there is a significant
+  risk of job displacement in this field due to the rise of AI.
+group: 0.2
+solo: 0.6
+vulnerability: 0.8

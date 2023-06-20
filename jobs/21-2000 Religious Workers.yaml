@@ -1,0 +1,19 @@
+Jobs Lost: 2197.25
+Jobs Remaining: 85692.75
+OCC_CODE: 21-2000
+OCC_TITLE: Religious Workers
+TOT_EMP: 87,890
+dexterity: 0.15
+explanation: Religious workers, as per the given Occupation Code, are primarily involved
+  in activities that require a high degree of human interaction and emotional intelligence.
+  These activities include counseling, teaching, and leading religious ceremonies,
+  which account for 60% of their work. These tasks are difficult to automate due to
+  their inherent need for human empathy, understanding, and connection. Solo computer
+  work, such as administrative tasks or sermon preparation, could potentially be automated
+  and accounts for 25% of their work. High dexterity physical contact work is relatively
+  low at 15%, as it might include tasks like setting up for ceremonies or events.
+  The overall vulnerability to AI displacement is low at 10% due to the high demand
+  for human interaction and emotional intelligence in this occupation.
+group: 0.6
+solo: 0.25
+vulnerability: 0.1

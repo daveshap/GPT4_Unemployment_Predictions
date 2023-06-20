@@ -1,0 +1,18 @@
+Jobs Lost: 100101.0
+Jobs Remaining: 1234579.0
+OCC_CODE: 41-1000
+OCC_TITLE: Supervisors of Sales Workers
+TOT_EMP: 1,334,680
+dexterity: 0.15
+explanation: Supervisors of Sales Workers often require a high level of group collaboration
+  and communication, as they need to manage teams, interact with customers, and make
+  strategic decisions. This accounts for 60% of their work. Solo computer work, such
+  as data analysis and report generation, could be automated and accounts for 25%
+  of their work. High dexterity physical contact is minimal in this role, estimated
+  at 15%. The intrinsic technological vulnerability is estimated at 30% due to the
+  high level of human interaction and decision-making required in this role. However,
+  some aspects of their work, such as data analysis and report generation, could be
+  automated.
+group: 0.6
+solo: 0.25
+vulnerability: 0.3

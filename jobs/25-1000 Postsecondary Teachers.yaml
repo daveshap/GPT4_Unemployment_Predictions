@@ -1,0 +1,16 @@
+Jobs Lost: 96620.29999999999
+Jobs Remaining: 1283669.7
+OCC_CODE: 25-1000
+OCC_TITLE: Postsecondary Teachers
+TOT_EMP: 1,380,290
+dexterity: 0.05
+explanation: Postsecondary teachers require a low level of dexterity as their work
+  does not involve much physical labor. A significant portion of their work involves
+  solo tasks such as research, grading, and lesson planning which can be done on a
+  computer. However, a large part of their job involves group collaboration and communication,
+  such as teaching, advising, and attending meetings. While AI can assist in some
+  aspects of their job, the need for human interaction and judgment in teaching and
+  advising students makes this occupation less vulnerable to displacement by AI.
+group: 0.6
+solo: 0.35
+vulnerability: 0.2

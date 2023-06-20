@@ -1,0 +1,18 @@
+Jobs Lost: 61508.7
+Jobs Remaining: 166301.3
+OCC_CODE: 27-4000
+OCC_TITLE: Media and Communication Equipment Workers
+TOT_EMP: 227,810
+dexterity: 0.15
+explanation: Media and Communication Equipment Workers often require a mix of solo
+  computer work, group collaboration, and some level of dexterity. The solo computer
+  work, which makes up about 45% of the job, is highly susceptible to automation.
+  Group collaboration, which is about 40% of the job, is less likely to be automated
+  due to the need for human interaction and decision-making. Dexterity is required
+  for about 15% of the job, which is the hardest to automate. However, given the high
+  percentage of computer work and the nature of the industry which is rapidly embracing
+  AI and automation, the vulnerability of this occupation to displacement due to AI
+  is estimated to be 60%.
+group: 0.4
+solo: 0.45
+vulnerability: 0.6

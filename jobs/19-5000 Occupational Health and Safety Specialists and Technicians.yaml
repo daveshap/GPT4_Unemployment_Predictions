@@ -1,0 +1,18 @@
+Jobs Lost: 15972.0
+Jobs Remaining: 117128.0
+OCC_CODE: 19-5000
+OCC_TITLE: Occupational Health and Safety Specialists and Technicians
+TOT_EMP: 133,100
+dexterity: 0.2
+explanation: Occupational Health and Safety Specialists and Technicians require a
+  mix of physical dexterity, solo computer work, and group collaboration. Physical
+  dexterity is needed for on-site inspections and handling safety equipment. Solo
+  computer work is involved in analyzing data and preparing reports. Group collaboration
+  is essential for conducting safety training and meetings. The intrinsic technological
+  vulnerability is relatively low as the human judgment and interaction involved in
+  ensuring workplace safety cannot be fully replaced by AI. However, some aspects
+  of data analysis and report preparation could be automated, hence a vulnerability
+  score of 0.3.
+group: 0.4
+solo: 0.4
+vulnerability: 0.3
